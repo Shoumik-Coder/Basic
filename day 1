@@ -1,0 +1,6 @@
+info={'name':'shoumik',
+     'fav_movies':['imi','np','wa'],
+      'fav_tunes':['fairy','tale']
+     }
+info['fav_songs']=['i can','hear','you']
+print(info)
