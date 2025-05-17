@@ -3,4 +3,5 @@ info={'name':'shoumik',
       'fav_tunes':['fairy','tale']
      }
 info['fav_songs']=['i can','hear','you']
+info.pop('fav_movies')
 print(info)
